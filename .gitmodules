@@ -1,0 +1,3 @@
+[submodule "NODEBLACK"]
+	path = NODEBLACK
+	url = https://github.com/blkopsys/nodeblack-suite.git
